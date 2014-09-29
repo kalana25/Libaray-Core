@@ -1,0 +1,46 @@
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\bin\Debug\Master Entry framwork.exe.config
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\bin\Debug\Master Entry framwork.exe
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\bin\Debug\Master Entry framwork.pdb
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Form1.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Properties.Resources.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master Entry framwork.csproj.GenerateResource.Cache
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master Entry framwork.exe
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master Entry framwork.pdb
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Category_master.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Login.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Main.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.language_master.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.author_master.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.book_master.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Publisher_master.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.gencode_master.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master Entry framwork.csprojResolveAssemblyReference.cache
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.user_master.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.privileges.resources
+D:\DEVELOPMENT\WPF\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.borrower_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\bin\Debug\Master Entry framwork.exe.config
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master Entry framwork.exe
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master Entry framwork.pdb
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.author_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.book_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.borrower_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Category_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Form1.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.gencode_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.language_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Login.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Main.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.privileges.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Properties.Resources.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Publisher_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.user_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master Entry framwork.csproj.GenerateResource.Cache
+D:\DataBase\Master Entry framwork\Master Entry framwork\bin\Debug\Master Entry framwork.exe
+D:\DataBase\Master Entry framwork\Master Entry framwork\bin\Debug\Master Entry framwork.pdb
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.barrow_transaction.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.return_transaction.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.rack_master.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Pack_book.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.Reports.Report_form.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master_Entry_framwork.MainNew.resources
+D:\DataBase\Master Entry framwork\Master Entry framwork\obj\Debug\Master Entry framwork.csprojResolveAssemblyReference.cache
